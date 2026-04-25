@@ -1,2 +1,2 @@
-# github-actions-demo
-This repository contains various scenarios for GitHub Actions
+# Github Actions Demo
+This repository contains various scenarios for GitHub Actions.
